@@ -1,4 +1,4 @@
-<h1>### Hi, I'm Fahad 👋  Full Stack Developer at Creedsoftech (Ahmedabad, India), building web and mobile apps with ASP.NET Core, Flutter, and Angular — backed by SQL Server.  🚀 Currently expanding into Python and Machine Learning, working toward becoming a dual-stack **Full Stack AI Developer** — blending traditional .NET development with AI-driven systems.  🎓 MSc IT (in progress, 2027) | BSc IT (2025) — LJ Institute of Technology  🔭 Recent projects: sales forecasting dashboards, face recognition attendance systems, and other ML-powered tools.  📫 Let's connect if you're into full-stack development, AI, or building practical software.</h1>
+<h1>💻 Full Stack Developer → 🤖 Full Stack AI Developer</h1>
 <p>Building with .NET | Exploring Python, Machine Learning & Data Analytics</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
